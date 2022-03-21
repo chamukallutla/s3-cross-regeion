@@ -1,0 +1,4 @@
+S3 CROSE RESGION BUCKET ENABLE
+S3 replicationrule namestatus(enabled)apply to all objects to the bucket
+Destinationchoose same account bucket(select more buckets at a time)select IAM Role(trust adviser)encryption(replication objects encrypted with aws kms )aws managed keyssave
+CREATE LIFE CYCLE
